@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Enilrah20
+- 👀 I’m interested in chemistry
+- 🌱 I’m currently learning python
